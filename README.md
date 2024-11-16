@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm **Gokul Krishna B**, currently pursuing a **PhD in Physics** at **IIT Gandhinagar**, specializing in [your research focus here]. With a strong foundation in analytical problem-solving and computational techniques, I am passionate about transitioning into the dynamic fields of **Software Development** and **Machine Learning**.
+I'm **Gokul Krishna B**, currently pursuing a **PhD in Physics** at **IIT Gandhinagar**, specializing in Particle Physics Phenomenology. With a strong foundation in analytical problem-solving and computational techniques, I am passionate about transitioning into the dynamic fields of **Software Development** and **Machine Learning**.
 
 ---
 
@@ -14,9 +14,8 @@ I'm **Gokul Krishna B**, currently pursuing a **PhD in Physics** at **IIT Gandhi
   - Deployment Tools and Cloud Platforms
 - 💞️ **Looking to Collaborate On:** AI/ML projects, data visualization tools, or innovative software solutions combining physics and machine learning.
 - 📫 **Reach Me At:** 
-  - **Email:** gokulkrishnab.gkb@example.com
-  - **LinkedIn:** [linkedin.com/in/gokulkrishnab](#)
-  - **GitHub:** [github.com/gokulkrishnab-gkb](#)
+  - **Email:** gokulkrishnaphy@gmail.com
+  - **LinkedIn:** [](#)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** My journey into machine learning began by applying neural networks to solve complex physics problems—where I learned that machines can "learn" physics better than I can explain it! 🚀
 
