@@ -25,7 +25,7 @@ I'm **Gokul Krishna B**, currently pursuing a **PhD in Physics** at **IIT Gandhi
 
 - **Programming Languages:** Python, C++, MATLAB
 - **Frameworks & Libraries:** TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn
-- **Tools & Platforms:** Git, Docker, Jupyter Notebook, VS Code, Google Cloud Platform (GCP)
+- **Tools & Platforms:** Git, Jupyter Notebook, VS Code
 - **Scientific Computing:** Monte Carlo Simulations, Numerical Methods, Data Analysis
 - **Soft Skills:** Critical Thinking, Problem Solving, Communication, Collaboration
 
