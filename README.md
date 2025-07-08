@@ -16,8 +16,6 @@ I'm **Gokul Krishna B**, currently pursuing a **PhD in Physics** at **IIT Gandhi
 - 📫 **Reach Me At:** 
   - **Email:** gokulkrishnaphy@gmail.com
   - **LinkedIn:** [https://www.linkedin.com/in/gokulkrishna-balakrishna/](#)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** My journey into machine learning began by applying neural networks to solve complex physics problems—where I learned that machines can "learn" physics better than I can explain it! 🚀
 
 ---
 
